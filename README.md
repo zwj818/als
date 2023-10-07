@@ -75,7 +75,7 @@
 
 或者扫码：
 ![渐冻症中医问诊单](/media/als-inquery.png "渐冻症中医问诊单")
-
+<img src="/media/als-inquery.png" width="100px">
 
 ### 3.中医大夫端
 我们会对提交的“中医渐冻症信息库”进行整理，方便大夫查看，
