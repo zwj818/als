@@ -42,13 +42,26 @@
 
 [12-经方治疗渐冻症医案](./渐冻症/12-经方治疗渐冻症医案.md)
 朱进忠、倪海厦、王付几位大夫的医案，值得研究。
------
+
+
+
 
 ## 二、研究机构  
-   
+1.蔡磊发起-爱斯康医疗科技：[http://www.askhelpu.com](http://www.askhelpu.com)
 
+2.樊东升等发起-中国ALS研究：[http://www.chalsr.net/](http://www.chalsr.net/)
 
-   
+3.东方雨丝渐冻人罕见病关爱中心：[http://www.jiandongren.org/](http://www.jiandongren.org/)
+
+4.陕西省渐冻人关爱互助协会：[http://www.sxals.cn/](http://www.sxals.cn/)
+
+5.中华民国渐冻人协会：[https://www.mnda.org.tw/](https://www.mnda.org.tw/)
+
+6.香港肌健协会：[https://hknmda.org.hk/](https://hknmda.org.hk/)
+
+7.美国ALS协会：[https://www.als.org/](https://www.als.org/)   
+
+  
 
 
 
